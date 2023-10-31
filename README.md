@@ -1,13 +1,13 @@
-# Enhancing-Marketing-Insights-Unveiling-the-Power-BI-Dashboard-for-Optimized-Strategies
+# Enhancing-Marketing-Insights-Unveiling-the-Power-BI-Report-for-Optimized-Strategies
 ![Screenshot 2023-10-29 at 2 06 15 AM](https://github.com/FelixQLe/Enhancing-Marketing-Insights-Unveiling-the-Power-BI-Dashboard-for-Optimized-Strategies/assets/93171100/8ea1b7eb-441c-40e8-a9b7-6786df6bbe09)
 
 As part of an ongoing initiative to empower data-driven decision-making within Adventure Works' Marketing Department, a comprehensive and insightful Power BI Dashboard and Report have been meticulously crafted, ushering in a new era of analytics and strategy refinement.
 
-The recently completed Power BI Dashboard is designed to transform raw data into actionable insights, providing a bird’s-eye view of marketing performance. It amalgamates information from various key sources, including sales figures, regional breakdowns, order volumes, and marketing expenditures from the last quarter.
+The recently completed Power BI report is designed to transform raw data into actionable insights, providing a bird’s-eye view of marketing performance. It amalgamates information from various key sources, including sales figures, regional breakdowns, order volumes, and marketing expenditures from the last quarter.
 
-Overview of the Dashboard:
+Overview of the Report:
 
-The dashboard offers an in-depth glimpse into crucial aspects essential for fine-tuning marketing strategies:
+The report offers an in-depth glimpse into crucial aspects essential for fine-tuning marketing strategies:
 
 - Total and average sales: The overall sales figure for the company throughout all regions from January to March totals roughly $1.04 million, with an average monthly sales amounting to approximately $64.75K per order.
 
