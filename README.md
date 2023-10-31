@@ -3,7 +3,7 @@
 
 As part of an ongoing initiative to empower data-driven decision-making within Adventure Works' Marketing Department, a comprehensive and insightful Power BI Dashboard and Report have been meticulously crafted, ushering in a new era of analytics and strategy refinement.
 
-The recently completed Power BI report is designed to transform raw data into actionable insights, providing a bird’s-eye view of marketing performance. It amalgamates information from various key sources, including sales figures, regional breakdowns, order volumes, and marketing expenditures from the last quarter.
+The recently completed Power BI report I designed to transform raw data into actionable insights, providing a bird’s-eye view of marketing performance. It amalgamates information from various key sources, including sales figures, regional breakdowns, order volumes, and marketing expenditures from the last quarter.
 
 Overview of the Report:
 
